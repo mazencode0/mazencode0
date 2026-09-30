@@ -1,5 +1,23 @@
-# 💫 About Me:
-## About Me<br><br>I'm a Computer & Systems Engineering student at Ain Shams University, currently focused on building my path toward **AI Engineering**.<br><br>My current journey is centered around **Data Science, Machine Learning, Deep Learning, NLP, Generative AI, and AI Engineering**. I'm learning the fundamentals while constantly turning what I learn into practical projects rather than stopping at theory.<br><br>I enjoy building things that solve real problems — from data-driven applications and machine learning systems to software projects and ideas that could eventually become real products.<br><br>I'm currently working on strengthening my foundations in **Python, NumPy, pandas, Scikit-learn, statistics, machine learning, and software engineering**, while gradually moving toward more advanced areas such as **Deep Learning, LLMs, RAG systems, and production AI**.<br><br>Outside AI, I have a background in **software development, Android development, C++, C#, and game development**, which gives me a broader engineering perspective when building technical solutions.<br><br>### Currently<br><br>* 🎓 Studying Engineering at Ain Shams University<br>* 🤖 Learning Data Science & Machine Learning<br>* 🧠 Working toward becoming an AI Engineer<br>* 🛠️ Building practical AI/ML projects<br>* 📚 Learning through projects, courses, books, and experimentation<br>* 🚀 Exploring how AI can be turned into useful products and real-world solutions<br><br>> **I don't want to just learn AI. I want to build with it.**<br>
+# 💫 About Me
+
+I'm a **Computer & Systems Engineering student at Ain Shams University** building my path toward **AI Engineering**.
+
+Currently focused on **Data Science, Machine Learning, Deep Learning, NLP, Generative AI, and LLMs**, while building practical projects and strengthening my software engineering foundations.
+
+## 🧠 Core Skills
+
+* **Programming:** Python, C++, C#, Java, Kotlin
+* **Data:** NumPy, pandas, Matplotlib, Statistics
+* **Machine Learning:** Scikit-learn, Supervised & Unsupervised Learning
+* **AI:** Deep Learning, NLP, LLMs, RAG, Generative AI
+* **Development:** Git, GitHub, Android Development, Software Engineering
+
+## 🎯 Goal
+
+Build **production-ready AI systems** and turn what I learn into useful, real-world products.
+
+> **Learn. Build. Improve. 🚀**
+
 
 
 ## 🌐 Socials:
